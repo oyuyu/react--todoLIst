@@ -1,0 +1,10 @@
+.todo{
+    margin: 20px
+  }
+  .todo>input{
+    height: 20px;
+  }
+  .todo>button{
+    background-color: #61dafb;
+    margin: 20px
+  }
